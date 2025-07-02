@@ -8,4 +8,6 @@ print("Hello my name is ", name)
 print("I am ", age ,"years old")
 print("Is a devops Engineer? ", is_devops_engineer)
 
+#you can run the script using "python3 "nameofthescript""
+
 
