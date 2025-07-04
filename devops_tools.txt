@@ -1,0 +1,5 @@
+Kubernetes - Container Orchestration tool
+Jenkins - CiCD Tool
+Ansible - Configuration Management
+Terraform - Infrastructure as a code
+Github - Version control

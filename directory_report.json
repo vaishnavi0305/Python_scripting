@@ -1,0 +1,10 @@
+{
+    "status.txt": {
+        "type": "file",
+        "size": 0.01
+    },
+    "testfolder": {
+        "type": "directory",
+        "size": 0.0
+    }
+}

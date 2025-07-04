@@ -8,7 +8,7 @@ else:
 
 # Loops
 
-for i in range(3):
+for i in range(1,7):
     print("Loop count:", i)
 
 x = 1

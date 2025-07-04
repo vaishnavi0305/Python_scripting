@@ -1,18 +1,15 @@
-#List
-
+#Create a List
 tools = ["terraform", "Ansible", "Jenkins"]
-print("Tools:", tools)
+
+# Access the items in the list
 print("Fist tool:", tools[0])
 
-#Dictionary
+# Add item in the list
+tools.append("GithubActions")
 
-server = {
-    "name": "Web-Server-01",
-    "ip": "192.02.45.67",
-    "status": "running"
-}
+# Remove an item in the list
+tools.remove("Ansible")
 
-print("Server Info:", server)
-print("IP Address:", server["ip"])
-
-
+# Loop through list
+for tool in tools:
+    print("Tools:", tool)
