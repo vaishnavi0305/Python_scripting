@@ -1,0 +1,7 @@
+{
+    "InstanceId": "i-0895f1e04cf77d1be",
+    "State": "running",
+    "Type": "t2.micro",
+    "Public IP": "3.84.206.174",
+    "AMI ID": "ami-0c2b8ca1dad447f8a"
+}
